@@ -43,3 +43,4 @@ To contribute or customize:
 - [ ] Implement categories/folders
 - [ ] Add theme customization
 - [ ] Sync across devices
+## Version 1.1 (2025-04-25)\n- Updated index.html
